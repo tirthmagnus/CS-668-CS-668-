@@ -195,7 +195,7 @@ The sales forecasting model demonstrates exceptional performance with high accur
 
 ### 6.2 Business Impact
 
-The project's impact extends to cost savings, waste reduction, and improved customer satisfaction. Informed decisions based on forecasted demand positively influence the bottom line.
+The project's impact extends to cost savings, waste reduction, and improved Inventory Mnagement by over comiun the major problems like over stock and understock. Informed decisions based on forecasted demand positively influence the bottom line.
 
 ## 7. Usage
 
@@ -219,7 +219,7 @@ The project features a user-friendly interface to interact with the model. conne
 )
 
 
-Gratitude is extended to [Pace University, Dr. Christelle Scharff] whose contributions and support have been instrumental in the success of this project.
+Gratitude is extended to [Pace University & Dr. Christelle Scharff] whose contributions, Guidance and support have been instrumental in the success of this project.
 
 ## 11. Contact
 
